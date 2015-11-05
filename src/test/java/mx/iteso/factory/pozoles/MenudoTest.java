@@ -8,7 +8,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 /**
- * Created by Daniel on 10/10/2015.
+ * Created by Salvador on 15/10/2015.
  */
 public class MenudoTest {
     Pozole pozole;

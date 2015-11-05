@@ -5,7 +5,7 @@ import mx.iteso.factory.PozoleStore;
 import mx.iteso.factory.pozoles.*;
 
 /**
- * Created by Daniel on 08/10/2015.
+ * Created by Salvador on 15/10/2015.
  */
 public class PozoleBlancoStore extends PozoleStore {
     @Override

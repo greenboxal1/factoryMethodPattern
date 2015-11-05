@@ -4,7 +4,7 @@ import mx.iteso.factory.Pozole;
 import mx.iteso.factory.ToppingsDecorator;
 
 /**
- * Created by Daniel on 10/10/2015.
+ * Created by Salvador on 15/10/2015.
  */
 public class Limon extends ToppingsDecorator {
     Pozole pozole;

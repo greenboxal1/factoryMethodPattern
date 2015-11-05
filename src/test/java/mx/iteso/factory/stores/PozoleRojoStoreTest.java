@@ -9,7 +9,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Daniel on 10/10/2015.
+ * Created by Salvador on 17/10/2015.
  */
 public class PozoleRojoStoreTest {
     Pozole pozole;

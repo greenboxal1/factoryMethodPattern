@@ -10,7 +10,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 /**
- * Created by Daniel on 10/10/2015.
+ * Created by Salvador on 17/10/2015.
  */
 public class AllPozoleStoreTest {
     Pozole pozole;
